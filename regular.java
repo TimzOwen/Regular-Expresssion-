@@ -20,4 +20,10 @@ public class RegexExample8{
             }    
         }    
     }    
-}    
+}  
+
+//the output becomes
+Enter regex pattern: java
+Enter text: this is java, do you know java
+I found the text java starting at index 8 and ending at index 12
+I found the text java starting at index 26 and ending at index 30
